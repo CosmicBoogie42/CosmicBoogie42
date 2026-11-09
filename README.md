@@ -60,6 +60,6 @@ Bring those and we'll move fast. 🚀
 
 ## 📬 Say hi
 
-Best way to reach me is [LinkedIn](https://www.linkedin.com/in/tiffcelice/). Not hiring? Not looking? Still happy to talk about what you're building.
+Best way to reach me is [LinkedIn](https://www.linkedin.com/in/tiffcelice/). My [portfolio](https://cosmicboogie42.github.io/) has the long version. Not hiring? Not looking? Still happy to talk about what you're building.
 
 *Built with ☕ in Lisbon. No bugs, only undocumented features.*
